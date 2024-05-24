@@ -1,4 +1,4 @@
-**India Administrative Boundary layers**
+India Administrative Boundary layers
 
 The below are the Administrative Boundary Database for entire country (District-level) Scale 1:1M - made available by Survey of India. Corrected for attribute records.
 
