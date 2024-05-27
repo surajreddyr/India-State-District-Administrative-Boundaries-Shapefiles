@@ -9,3 +9,6 @@ India_ADMIN_SOI_Districts.zip.001
 India_ADMIN_SOI_Districts.zip.001
 
 Unzip them and use!!
+
+
+For State-Boundaries, Download and unzip the file India_ADMIN_SOI_States.zip
